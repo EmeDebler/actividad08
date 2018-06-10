@@ -1,7 +1,36 @@
 .pd{
-	padding: 0;
+
+	padding-left: 100px;
 }
 .color{
-	background-color: #D6D4D4;
+	background-color: #F5F3F3;
 	border: 1px solid #C4C4C4; 
 }
+.logo{
+     margin-top: 0px;
+}
+.texto{
+		font-size: 15px;
+	    line-height: 6px;
+	    word-spacing: 2px;
+	    margin-top: 0px;
+	    margin-left: 0px;
+	  	padding: 10px;
+}
+.texto2{
+		font-size: 15px;
+	    line-height: 6px;
+	    word-spacing: 2px;
+	    margin-top: 0px;
+	    margin-left: 0px;
+	  	padding-top: 30px;
+}
+.texto3{
+		padding-top: 35px;
+		font-size: 39px;
+	    line-height: 35px;
+	    word-spacing: 1px;
+	 }
+.margen2{
+	text-align: left;
+	}
